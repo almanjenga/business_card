@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Alma Mugure</string>
+    <string name="title">Musician</string>
+    <string name="number">+254743790523</string>
+    <string name="social">\@almamugz</string>
+    <string name="email">almamugz@gmail.com</string>
+</resources>
